@@ -1,0 +1,193 @@
+{
+  "version": "1.0",
+  "prematch_only": true,
+  "days_ahead": 14,
+  "min_minutes_before_kickoff": 10,
+  "regions": [
+    "eu",
+    "uk",
+    "us",
+    "au"
+  ],
+  "markets": [
+    "h2h"
+  ],
+  "odds_format": "decimal",
+  "max_bookmakers_target": 20,
+  "leagues": [
+    {
+      "enabled": true,
+      "area": "Italia",
+      "key": "soccer_italy_serie_a",
+      "name": "Serie A"
+    },
+    {
+      "enabled": true,
+      "area": "Italia",
+      "key": "soccer_italy_serie_b",
+      "name": "Serie B"
+    },
+    {
+      "enabled": true,
+      "area": "Italia",
+      "key": "soccer_italy_coppa_italia",
+      "name": "Coppa Italia"
+    },
+    {
+      "enabled": true,
+      "area": "Europa club",
+      "key": "soccer_uefa_champs_league",
+      "name": "UEFA Champions League"
+    },
+    {
+      "enabled": true,
+      "area": "Europa club",
+      "key": "soccer_uefa_europa_league",
+      "name": "UEFA Europa League"
+    },
+    {
+      "enabled": true,
+      "area": "Europa club",
+      "key": "soccer_uefa_europa_conference_league",
+      "name": "UEFA Conference League"
+    },
+    {
+      "enabled": true,
+      "area": "Europa club",
+      "key": "soccer_uefa_super_cup",
+      "name": "UEFA Super Cup"
+    },
+    {
+      "enabled": true,
+      "area": "Internazionali nazionali",
+      "key": "soccer_fifa_world_cup",
+      "name": "FIFA World Cup"
+    },
+    {
+      "enabled": true,
+      "area": "Internazionali nazionali",
+      "key": "soccer_fifa_world_cup_qualifiers",
+      "name": "Qualificazioni Mondiali"
+    },
+    {
+      "enabled": true,
+      "area": "Internazionali nazionali",
+      "key": "soccer_uefa_european_championship",
+      "name": "UEFA Euro"
+    },
+    {
+      "enabled": true,
+      "area": "Internazionali nazionali",
+      "key": "soccer_uefa_nations_league",
+      "name": "UEFA Nations League"
+    },
+    {
+      "enabled": true,
+      "area": "Internazionali nazionali",
+      "key": "soccer_conmebol_copa_america",
+      "name": "Copa America"
+    },
+    {
+      "enabled": true,
+      "area": "Inghilterra",
+      "key": "soccer_epl",
+      "name": "Premier League"
+    },
+    {
+      "enabled": true,
+      "area": "Inghilterra",
+      "key": "soccer_efl_champ",
+      "name": "Championship"
+    },
+    {
+      "enabled": true,
+      "area": "Inghilterra",
+      "key": "soccer_fa_cup",
+      "name": "FA Cup"
+    },
+    {
+      "enabled": true,
+      "area": "Inghilterra",
+      "key": "soccer_england_league_cup",
+      "name": "EFL Cup"
+    },
+    {
+      "enabled": true,
+      "area": "Spagna",
+      "key": "soccer_spain_la_liga",
+      "name": "La Liga"
+    },
+    {
+      "enabled": true,
+      "area": "Spagna",
+      "key": "soccer_spain_segunda_division",
+      "name": "Segunda División"
+    },
+    {
+      "enabled": true,
+      "area": "Germania",
+      "key": "soccer_germany_bundesliga",
+      "name": "Bundesliga"
+    },
+    {
+      "enabled": true,
+      "area": "Germania",
+      "key": "soccer_germany_bundesliga2",
+      "name": "2. Bundesliga"
+    },
+    {
+      "enabled": true,
+      "area": "Francia",
+      "key": "soccer_france_ligue_one",
+      "name": "Ligue 1"
+    },
+    {
+      "enabled": true,
+      "area": "Francia",
+      "key": "soccer_france_ligue_two",
+      "name": "Ligue 2"
+    },
+    {
+      "enabled": true,
+      "area": "Paesi Bassi",
+      "key": "soccer_netherlands_eredivisie",
+      "name": "Eredivisie"
+    },
+    {
+      "enabled": true,
+      "area": "Portogallo",
+      "key": "soccer_portugal_primeira_liga",
+      "name": "Primeira Liga"
+    },
+    {
+      "enabled": true,
+      "area": "Turchia",
+      "key": "soccer_turkey_super_league",
+      "name": "Süper Lig"
+    },
+    {
+      "enabled": true,
+      "area": "Belgio",
+      "key": "soccer_belgium_first_div",
+      "name": "Belgian First Division A"
+    },
+    {
+      "enabled": true,
+      "area": "Sud America",
+      "key": "soccer_brazil_campeonato",
+      "name": "Brasileirão Série A"
+    },
+    {
+      "enabled": true,
+      "area": "Sud America",
+      "key": "soccer_argentina_primera_division",
+      "name": "Argentina Primera División"
+    },
+    {
+      "enabled": true,
+      "area": "Nord America",
+      "key": "soccer_usa_mls",
+      "name": "MLS"
+    }
+  ]
+}
