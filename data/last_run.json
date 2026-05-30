@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-30T15:55:47.454594+00:00",
+  "last_run": "2026-05-30T20:15:37.416099+00:00",
   "status": "no_data",
   "rows_current": 0,
   "ranking_rows": 0,
@@ -22,7 +22,7 @@
     {
       "key": "soccer_uefa_champs_league",
       "name": "UEFA Champions League",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_uefa_champs_league/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T16%3A05%3A46.800128Z&commenceTimeTo=2026-06-13T15%3A55%3A46.800128Z"
+      "reason": "non disponibile dal provider in questo momento"
     },
     {
       "key": "soccer_uefa_europa_league",
@@ -42,7 +42,7 @@
     {
       "key": "soccer_fifa_world_cup",
       "name": "FIFA World Cup",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T16%3A05%3A46.929262Z&commenceTimeTo=2026-06-13T15%3A55%3A46.929262Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T20%3A25%3A36.692241Z&commenceTimeTo=2026-06-13T20%3A15%3A36.692241Z"
     },
     {
       "key": "soccer_fifa_world_cup_qualifiers",
@@ -92,7 +92,7 @@
     {
       "key": "soccer_spain_segunda_division",
       "name": "Segunda División",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_segunda_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T16%3A05%3A46.993158Z&commenceTimeTo=2026-06-13T15%3A55%3A46.993158Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_segunda_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T20%3A25%3A36.875219Z&commenceTimeTo=2026-06-13T20%3A15%3A36.875219Z"
     },
     {
       "key": "soccer_germany_bundesliga",
@@ -132,12 +132,12 @@
     {
       "key": "soccer_belgium_first_div",
       "name": "Belgian First Division A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_belgium_first_div/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T16%3A05%3A47.109698Z&commenceTimeTo=2026-06-13T15%3A55%3A47.109698Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_belgium_first_div/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T20%3A25%3A37.063025Z&commenceTimeTo=2026-06-13T20%3A15%3A37.063025Z"
     },
     {
       "key": "soccer_brazil_campeonato",
       "name": "Brasileirão Série A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_brazil_campeonato/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T16%3A05%3A47.309255Z&commenceTimeTo=2026-06-13T15%3A55%3A47.309255Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_brazil_campeonato/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-05-30T20%3A25%3A37.267793Z&commenceTimeTo=2026-06-13T20%3A15%3A37.267793Z"
     },
     {
       "key": "soccer_argentina_primera_division",
