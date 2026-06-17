@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-16T23:43:49.804853+00:00",
+  "last_run": "2026-06-17T05:05:50.922437+00:00",
   "status": "no_data",
   "rows_current": 0,
   "ranking_rows": 0,
@@ -42,7 +42,7 @@
     {
       "key": "soccer_fifa_world_cup",
       "name": "FIFA World Cup",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-16T23%3A53%3A49.545731Z&commenceTimeTo=2026-06-30T23%3A43%3A49.545731Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-17T05%3A15%3A50.488218Z&commenceTimeTo=2026-07-01T05%3A05%3A50.488218Z"
     },
     {
       "key": "soccer_fifa_world_cup_qualifiers",
@@ -92,7 +92,7 @@
     {
       "key": "soccer_spain_segunda_division",
       "name": "Segunda División",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_segunda_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-16T23%3A53%3A49.690567Z&commenceTimeTo=2026-06-30T23%3A43%3A49.690567Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_segunda_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-17T05%3A15%3A50.662017Z&commenceTimeTo=2026-07-01T05%3A05%3A50.662017Z"
     },
     {
       "key": "soccer_germany_bundesliga",
