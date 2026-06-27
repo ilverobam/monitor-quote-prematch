@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-27T07:55:25.994125+00:00",
+  "last_run": "2026-06-27T10:19:18.531484+00:00",
   "status": "no_data",
   "rows_current": 0,
   "ranking_rows": 0,
@@ -7,7 +7,7 @@
     {
       "key": "soccer_italy_serie_a",
       "name": "Serie A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_italy_serie_a/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T08%3A05%3A25.276826Z&commenceTimeTo=2026-07-11T07%3A55%3A25.276826Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_italy_serie_a/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T10%3A29%3A17.614633Z&commenceTimeTo=2026-07-11T10%3A19%3A17.614633Z"
     },
     {
       "key": "soccer_italy_serie_b",
@@ -42,7 +42,7 @@
     {
       "key": "soccer_fifa_world_cup",
       "name": "FIFA World Cup",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T08%3A05%3A25.429783Z&commenceTimeTo=2026-07-11T07%3A55%3A25.429783Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T10%3A29%3A17.744862Z&commenceTimeTo=2026-07-11T10%3A19%3A17.744862Z"
     },
     {
       "key": "soccer_fifa_world_cup_qualifiers",
@@ -67,12 +67,12 @@
     {
       "key": "soccer_epl",
       "name": "Premier League",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_epl/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T08%3A05%3A25.507419Z&commenceTimeTo=2026-07-11T07%3A55%3A25.507419Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_epl/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T10%3A29%3A17.901234Z&commenceTimeTo=2026-07-11T10%3A19%3A17.901234Z"
     },
     {
       "key": "soccer_efl_champ",
       "name": "Championship",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_efl_champ/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T08%3A05%3A25.613146Z&commenceTimeTo=2026-07-11T07%3A55%3A25.613146Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_efl_champ/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T10%3A29%3A18.135838Z&commenceTimeTo=2026-07-11T10%3A19%3A18.135838Z"
     },
     {
       "key": "soccer_fa_cup",
@@ -137,7 +137,7 @@
     {
       "key": "soccer_brazil_campeonato",
       "name": "Brasileirão Série A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_brazil_campeonato/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T08%3A05%3A25.777998Z&commenceTimeTo=2026-07-11T07%3A55%3A25.777998Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_brazil_campeonato/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-06-27T10%3A29%3A18.410956Z&commenceTimeTo=2026-07-11T10%3A19%3A18.410956Z"
     },
     {
       "key": "soccer_argentina_primera_division",
