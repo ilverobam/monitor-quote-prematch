@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-08T07:07:16.986013+00:00",
+  "last_run": "2026-08-08T07:56:33.612157+00:00",
   "status": "no_data",
   "rows_current": 0,
   "ranking_rows": 0,
@@ -7,12 +7,12 @@
     {
       "key": "soccer_italy_serie_a",
       "name": "Serie A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_italy_serie_a/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A15.337929Z&commenceTimeTo=2026-08-22T07%3A07%3A15.337929Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_italy_serie_a/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A30.643030Z&commenceTimeTo=2026-08-22T07%3A56%3A30.643030Z"
     },
     {
       "key": "soccer_italy_serie_b",
       "name": "Serie B",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_italy_serie_b/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A15.474290Z&commenceTimeTo=2026-08-22T07%3A07%3A15.474290Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_italy_serie_b/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A30.862467Z&commenceTimeTo=2026-08-22T07%3A56%3A30.862467Z"
     },
     {
       "key": "soccer_italy_coppa_italia",
@@ -57,7 +57,7 @@
     {
       "key": "soccer_uefa_nations_league",
       "name": "UEFA Nations League",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_uefa_nations_league/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A15.627462Z&commenceTimeTo=2026-08-22T07%3A07%3A15.627462Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_uefa_nations_league/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A31.052414Z&commenceTimeTo=2026-08-22T07%3A56%3A31.052414Z"
     },
     {
       "key": "soccer_conmebol_copa_america",
@@ -67,12 +67,12 @@
     {
       "key": "soccer_epl",
       "name": "Premier League",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_epl/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A15.782825Z&commenceTimeTo=2026-08-22T07%3A07%3A15.782825Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_epl/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A31.278676Z&commenceTimeTo=2026-08-22T07%3A56%3A31.278676Z"
     },
     {
       "key": "soccer_efl_champ",
       "name": "Championship",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_efl_champ/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A15.928778Z&commenceTimeTo=2026-08-22T07%3A07%3A15.928778Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_efl_champ/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A31.461769Z&commenceTimeTo=2026-08-22T07%3A56%3A31.461769Z"
     },
     {
       "key": "soccer_fa_cup",
@@ -87,67 +87,67 @@
     {
       "key": "soccer_spain_la_liga",
       "name": "La Liga",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_la_liga/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A15.997436Z&commenceTimeTo=2026-08-22T07%3A07%3A15.997436Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_la_liga/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A31.634007Z&commenceTimeTo=2026-08-22T07%3A56%3A31.634007Z"
     },
     {
       "key": "soccer_spain_segunda_division",
       "name": "Segunda División",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_segunda_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.095669Z&commenceTimeTo=2026-08-22T07%3A07%3A16.095669Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_spain_segunda_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A31.753676Z&commenceTimeTo=2026-08-22T07%3A56%3A31.753676Z"
     },
     {
       "key": "soccer_germany_bundesliga",
       "name": "Bundesliga",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_germany_bundesliga/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.189225Z&commenceTimeTo=2026-08-22T07%3A07%3A16.189225Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_germany_bundesliga/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A31.849255Z&commenceTimeTo=2026-08-22T07%3A56%3A31.849255Z"
     },
     {
       "key": "soccer_germany_bundesliga2",
       "name": "2. Bundesliga",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_germany_bundesliga2/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.252752Z&commenceTimeTo=2026-08-22T07%3A07%3A16.252752Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_germany_bundesliga2/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A32.113313Z&commenceTimeTo=2026-08-22T07%3A56%3A32.113313Z"
     },
     {
       "key": "soccer_france_ligue_one",
       "name": "Ligue 1",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_france_ligue_one/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.316796Z&commenceTimeTo=2026-08-22T07%3A07%3A16.316796Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_france_ligue_one/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A32.325210Z&commenceTimeTo=2026-08-22T07%3A56%3A32.325210Z"
     },
     {
       "key": "soccer_france_ligue_two",
       "name": "Ligue 2",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_france_ligue_two/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.456047Z&commenceTimeTo=2026-08-22T07%3A07%3A16.456047Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_france_ligue_two/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A32.557173Z&commenceTimeTo=2026-08-22T07%3A56%3A32.557173Z"
     },
     {
       "key": "soccer_netherlands_eredivisie",
       "name": "Eredivisie",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_netherlands_eredivisie/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.532370Z&commenceTimeTo=2026-08-22T07%3A07%3A16.532370Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_netherlands_eredivisie/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A32.652506Z&commenceTimeTo=2026-08-22T07%3A56%3A32.652506Z"
     },
     {
       "key": "soccer_portugal_primeira_liga",
       "name": "Primeira Liga",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_portugal_primeira_liga/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.596500Z&commenceTimeTo=2026-08-22T07%3A07%3A16.596500Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_portugal_primeira_liga/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A32.758220Z&commenceTimeTo=2026-08-22T07%3A56%3A32.758220Z"
     },
     {
       "key": "soccer_turkey_super_league",
       "name": "Süper Lig",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_turkey_super_league/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.662559Z&commenceTimeTo=2026-08-22T07%3A07%3A16.662559Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_turkey_super_league/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A32.917754Z&commenceTimeTo=2026-08-22T07%3A56%3A32.917754Z"
     },
     {
       "key": "soccer_belgium_first_div",
       "name": "Belgian First Division A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_belgium_first_div/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.722897Z&commenceTimeTo=2026-08-22T07%3A07%3A16.722897Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_belgium_first_div/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A33.021761Z&commenceTimeTo=2026-08-22T07%3A56%3A33.021761Z"
     },
     {
       "key": "soccer_brazil_campeonato",
       "name": "Brasileirão Série A",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_brazil_campeonato/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.794684Z&commenceTimeTo=2026-08-22T07%3A07%3A16.794684Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_brazil_campeonato/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A33.174995Z&commenceTimeTo=2026-08-22T07%3A56%3A33.174995Z"
     },
     {
       "key": "soccer_argentina_primera_division",
       "name": "Argentina Primera División",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_argentina_primera_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.854492Z&commenceTimeTo=2026-08-22T07%3A07%3A16.854492Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_argentina_primera_division/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A33.271027Z&commenceTimeTo=2026-08-22T07%3A56%3A33.271027Z"
     },
     {
       "key": "soccer_usa_mls",
       "name": "MLS",
-      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_usa_mls/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T07%3A17%3A16.920034Z&commenceTimeTo=2026-08-22T07%3A07%3A16.920034Z"
+      "reason": "422 Client Error: Unprocessable Entity for url: https://api.the-odds-api.com/v4/sports/soccer_usa_mls/odds?apiKey=de902d09f7fa0248a411154614e98747&regions=eu%2Cuk%2Cus%2Cau&markets=h2h&oddsFormat=decimal&dateFormat=iso&commenceTimeFrom=2026-08-08T08%3A06%3A33.378728Z&commenceTimeTo=2026-08-22T07%3A56%3A33.378728Z"
     }
   ]
 }
